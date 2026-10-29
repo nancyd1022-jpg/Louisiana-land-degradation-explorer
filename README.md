@@ -7,7 +7,7 @@ An interactive **Google Earth Engine (GEE)** application for screening potential
 
 ## Open the application
 
-**[Launch the Earth Engine App — (https://project-4a3b80c0-1308-4163-8d2.projects.earthengine.app/view/louisianalanddegradationexplorer))**
+**[Launch the Earth Engine App — (https://project-4a3b80c0-1308-4163-8d2.projects.earthengine.app/view/louisianalanddegradationexplorer)]**
 
 ## Repository contents
 
