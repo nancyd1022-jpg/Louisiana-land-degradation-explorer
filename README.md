@@ -5,9 +5,9 @@
 An interactive **Google Earth Engine (GEE)** application for screening potential vegetation degradation across Louisiana's 64 parishes. Users can choose a parish and a calendar year (2001–2025), display changes in vegetation condition, view parish-level area summaries, and export a classified GeoTIFF.
 
 
-## Open the application
+## Open the Application
 
-**[Launch the Earth Engine App — (https://project-4a3b80c0-1308-4163-8d2.projects.earthengine.app/view/louisianalanddegradationexplorer)]**
+[🚀 Launch the Louisiana Land Degradation Explorer](https://project-4a3b80c0-1308-4163-8d2.projects.earthengine.app/view/louisianalanddegradationexplorer)**
 
 ## Repository contents
 
